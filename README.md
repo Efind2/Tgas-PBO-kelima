@@ -52,10 +52,6 @@ Untuk menampilkan data di jTable  sebenarnya kita bisa menggunakan DefaultTbleMo
             return null;
         }
     }
-
-    void txtNamaActionPerformed(ActionEvent evt) {
-        // TODO add your handling code here:
-    }
     }
 
 kemudian program juga ditulis di Main Class untuk menghubungkan dengan DbUtils
